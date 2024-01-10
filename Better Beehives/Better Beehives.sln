@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Better Beehives", "Better Beehives\Better Beehives.csproj", "{EC858B33-CC1E-4A09-9347-8371BAB98852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "CakeBuild\CakeBuild.csproj", "{72F9C3F6-91B7-4A4E-885B-8499EA0FFC81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC858B33-CC1E-4A09-9347-8371BAB98852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC858B33-CC1E-4A09-9347-8371BAB98852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC858B33-CC1E-4A09-9347-8371BAB98852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC858B33-CC1E-4A09-9347-8371BAB98852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F9C3F6-91B7-4A4E-885B-8499EA0FFC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F9C3F6-91B7-4A4E-885B-8499EA0FFC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F9C3F6-91B7-4A4E-885B-8499EA0FFC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F9C3F6-91B7-4A4E-885B-8499EA0FFC81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B82800F4-7E9B-43BD-B9D8-D7CFA7AF9B17}
+	EndGlobalSection
+EndGlobal

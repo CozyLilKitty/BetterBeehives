@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "Better_Beehives",
+    "name": "Better_Beehives",
+    "authors": [
+        "CozyLilKitty"
+    ],
+    "description": "Creates beehives that are reuseable",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.18"
+    }
+}
